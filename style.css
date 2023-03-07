@@ -1,0 +1,96 @@
+.container{
+    display: flex;
+    
+}
+.info li{
+ list-style: none;
+ display: inline;
+ justify-content: space-between; 
+ padding: 40px;
+ color: brown;  
+}
+#but{
+    background-color: black;
+    color: white;
+    float: right;
+}
+.brand{
+    color: crimson;
+}
+#h2{
+    font-size: 50px;
+    color: crimson;
+
+}
+#h3a{
+    font-size: 35px;
+    color: darkblue;
+
+}
+#h3b{
+    font-size: 35px;
+    color: darkviolet;
+}
+#h3c{
+    font-size: 35px;
+    color:palevioletred;
+}
+#h3d{
+    font-size: 40px;
+}
+
+.men{ 
+justify-content: space-between;
+padding-inline: 40px;
+
+}
+#man2{
+    padding-left: 20px;
+
+}
+#man3{
+    padding-left: 45px;
+}
+
+#woman2{
+    padding-left: 40px;
+}
+#woman3{
+    padding-left: 100px;
+
+}
+#woman4{
+    padding-left: 150px;
+}
+
+#kid3{
+padding-left: 90px;
+}
+#kid4{
+    padding-left:190px ;
+}
+
+
+footer{
+    display: flex;
+}
+#h5{
+    font: size 15px;
+    margin-bottom: 6%;
+}
+.footer1{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.footer2{
+    margin-left: 5%;
+   margin-top: 5%;
+}
+.footer3{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.footer4{
+    margin-left: 5%;
+    margin-top: 5%;
+}
